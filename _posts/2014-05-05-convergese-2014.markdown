@@ -1,0 +1,95 @@
+---
+layout: post
+status: publish
+published: true
+title: ConvergeSE 2014
+author:
+  display_name: jmayhak
+  login: jmayhak
+  email: jmayhak@gmail.com
+  url: ''
+author_login: jmayhak
+author_email: jmayhak@gmail.com
+wordpress_id: 107
+wordpress_url: http://jonathanmayhak.com/?p=107
+date: '2014-05-05 14:51:49 -0400'
+date_gmt: '2014-05-05 18:51:49 -0400'
+categories:
+- conferences
+tags: []
+comments: []
+---
+<p><a href="http:&#47;&#47;jonathanmayhak.com&#47;wp-content&#47;uploads&#47;2014&#47;05&#47;Screen-Shot-2014-05-05-at-2.51.08-PM-e1399315981112.png"><img class="alignright wp-image-113 size-medium" src="http:&#47;&#47;jonathanmayhak.com&#47;wp-content&#47;uploads&#47;2014&#47;05&#47;Screen-Shot-2014-05-05-at-2.51.08-PM-300x149.png" alt="ConvergeSE 2014" width="300" height="149" &#47;><&#47;a></p>
+<p><a href="http:&#47;&#47;convergese.com">ConvergeSE<&#47;a>&nbsp;is a "conference for everyone working with technology in creative ways." I've attended this conference since the beginning (back when it was called ConvergeSC), and it has been awesome seeing it evolve into something people travel to from all over the country. The guys at <a href="http:&#47;&#47;unmatchedstyle.com&#47;">Unmatched Style<&#47;a>&nbsp;and now <a href="http:&#47;&#47;theironyard.com&#47;">The Iron Yard<&#47;a>&nbsp;are doing an amazing job of turning Columbia, SC into a top destination. The conference is a 3 day ordeal with workshops on Thursday, various break out tracks based on interests on Friday, and finally everyone together on Saturday for talks aimed at everyone. Here are some of the takeaways from the talks I attended:</p>
+<h3>A Focused Path for Good Products<&#47;h3></p>
+<address>Andy Dahley - Google (works with the Hangouts product)<&#47;address>Andy discussed 5 steps to follow to have a good product.</p>
+<ol>
+<li><strong>Define your principles<&#47;strong>.<br />
+This is 3-5 core tenets your product will adhere to. Andy said for the recent Hangout redesign they used live conversation, iconic &amp; beautiful, and unified platforms. Your products principles should be high level&nbsp;but need to be something you can constantly point back to when saying "no" to good ideas.<&#47;li></p>
+<li><strong>Scope<&#47;strong><br />
+Scope fits right in with defining your principles. The idea being to keep scope "tight". The scope should be manageable but not so small that there's no vision to get behind.<&#47;li></p>
+<li><strong>Champion<br />
+<&#47;strong>Finding a champion for your product was an idea I had never thought to have. A champion is someone who will fight for you, fund the project, and help cast the vision. This person should be senior over your stakeholders (the team), responsible, and accountable. You should be able to discuss feedback openly with the champion. I've always thought of a champion as not necessary. I thought that if a company has ok'd a project, then you're good to go, however, it makes perfect sense to search out and have the backing of someone who has the ability to pull strings for your project before you start forming the team.<&#47;li></p>
+<li><strong>Sprint<&#47;strong><br />
+The sprint is a 1 week process to set the project direction. The Champion is&nbsp;<strong>not<&#47;strong>&nbsp;invited. You should invite designers and key stakeholders. Andy recommended the <a href="http:&#47;&#47;www.gv.com&#47;library&#47;">Google Ventures<&#47;a> articles on sprint planning. This first sprint should not happen remote. At the end of this sprint you should conduct a review of where the team ended with the Champion. The end concept should be as high fidelity as possible.<&#47;li></p>
+<li><strong>The Project<br />
+<&#47;strong>If the sprint takes 1 week, then you should give 6-12 weeks to complete the project. Each milestone should be reviewed with the Champion. It is likely that the Champion will mention functionality outside of the scope of the project. Stay cool and remind him or her of the principles and scope you agreed on from the start. Do not expect to ship everything you want in version 1. A good tip is to do the full design work first. This makes it easier to break up a project into logical chunks for the engineers later.<&#47;li><br />
+<&#47;ol></p>
+<h3>Let's be brutally honest about operations &amp; pricing for web agencies<&#47;h3></p>
+<address>Rob Harr - COO Sparkbox<&#47;address>Rob had a ton of good information.&nbsp;His talk was split 3 ways: Operations, Pricing, and Sparkbox specifically.</p>
+<h4>Operations<&#47;h4><br />
+Operations = cash flow</p>
+<p>Should be able to go a quarter out with known expenses</p>
+<p>Savings gives you freedom to make good business decisions</p>
+<p>Use contractors to prove viability of a new business line.</p>
+<h4>Pricing<&#47;h4><br />
+Paid discovery - charge for anything you wouldn't have done otherwise</p>
+<p>3 models for pricing:</p>
+<ol>
+<li><strong>Fixed Pricing<&#47;strong>: build x for y and agency eats overages. This can create an us vs them mentality.<&#47;li>
+<li><strong>Hourly Pricing<&#47;strong>: shared risk model. decision making happens with the client. "Want more? costs you more"<&#47;li>
+<li><strong>Value Pricing<&#47;strong>: the agency figures out what it's worth and charges that<&#47;li><br />
+<&#47;ol><br />
+These models for pricing are all about estimating. On that note, you should be getting 30-40% of your bids. Any more and you should look into raising your rate.</p>
+<p>You should be well aware of your multiplier, and it should be greater than 2.</p>
+<h4>Sparkbox Specifics<&#47;h4><br />
+Sparkbox is an hourly shop. Rob recommends starting new relationships off like dating. Begin with short term goals so you can both gauge if this relationship is worth continuing.</p>
+<p>$165&#47;hour and $247.50&#47;hour overtime. Overtime is defined as work that needs to be done outside of normal business hours.</p>
+<p>Does not accept projects less that $25K and a 20% deposit is asked upfront. This helps the agency know if the client&nbsp;<em>can<&#47;em> pay.</p>
+<p>Give the budget spreadsheet to the client with hours for each type of task: planning, UX, UI, FE, Finesse. Give a min&#47;max for each task and let the client play with the numbers. This helps train the client to think in terms of hours instead of deliverables of functionality. Finesse is dedicated time to make the product cohesive, clean, and beautiful. Finesse time is unadjustable. Finesse is not QA. QA happens all the time for each task.</p>
+<p>Always define what "done" means.</p>
+<p>Give weekly invoices. This keeps the project on budget and the client informed.</p>
+<p>All work is for hire. No agency ownership.</p>
+<p>Find areas where you&nbsp;<em>can<&#47;em> experiment. Do not experiment too much on a project.</p>
+<p>Get a line of credit now before you need it.</p>
+<p>Know your legal documents and offer yours when they ask you to sign an NDA.</p>
+<p>The Agency expects 28-32 hours of billable work&nbsp;from each employee&nbsp;weekly.</p>
+<h3>Word of Mouth Marketing<&#47;h3></p>
+<address>Geno Church - brainsonfire.com<&#47;address>People decide what is said about a brand not marketers</p>
+<p>Your best word of mouth is how you do business every day</p>
+<p>Marketing is match matching</p>
+<p>People today want to know what is behind the brand; what drives the brand.</p>
+<p>There are 3 triggers for people to talk about a brand:</p>
+<ol>
+<li><strong>Functional<&#47;strong>: information gathering. why, how, where, etc<&#47;li>
+<li><strong>Social<&#47;strong>: who we are. Geno's example was instagraming about things you like: bourbon, cofffee, americana, etc.<&#47;li>
+<li><strong>Emotional<&#47;strong>: strong emotions invoke chatter.<&#47;li><br />
+<&#47;ol><br />
+Offline conversations are emotional (private) and online conversations are social (public). The new online is emotional.</p>
+<p>Find what you want your customer to&nbsp;<em>become<&#47;em> in order to help market your product.</p>
+<h3>The Contrarian Salesperson<&#47;h3></p>
+<address>Nicole Cendrowski - Sandler Training<&#47;address>&nbsp;Nicole had 6 points to keep in mind when selling:</p>
+<ol>
+<li><strong>Adult to Adult Selling<&#47;strong><br />
+Sales often looks like a parent-child relationship. You should work to level the playing field.<&#47;li></p>
+<li><strong>Everything is an iceberg<&#47;strong><br />
+You need to dig to the truth. The surface is not enough to know whether or not to do business. Find if there's any urgency, amount the client is willing to invest, and how they make decisions<&#47;li></p>
+<li><strong>Process Orientation<&#47;strong><br />
+Have checklists for your process. Have a pre-call checklist. Make sure that your expectations going into a meeting line up with the people you're meeting with.<&#47;li></p>
+<li><strong>Camping vs Climbing<&#47;strong><br />
+Do you have 30 years of experience of 1 year?<&#47;li></p>
+<li><strong>Where did he die?<&#47;strong><br />
+Find the leading&#47;lagging indicators for your sales. What are you basing your assumptions on? Some good metrics to track: Dials to Conversations (DTC), Conversations to Appointments (CTA), First Appointments Ever (FAE), and Closed Files (CF).<&#47;li></p>
+<li><strong>Deliberate Practice<&#47;strong><br />
+It's what you learn after you know it all that counts. "ANCORA IMPARO"<&#47;li><br />
+<&#47;ol></p>
