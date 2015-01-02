@@ -23,19 +23,14 @@ author:
   last_name: ''
 ---
 <p>For the last few weeks at Chernoff Newman, I have been working on the backend of a website that commemorates the 150 year anniversary of the burning of Columbia (<a href="http://burningofcolumbia.com">http://burningofcolumbia.com</a>). The primary goal of the website is to promote various events and exhibits happening throughout the city over the next few months. The State wrote up a nice <a href="http://www.thestate.com/2014/12/05/3854989_burning-of-columbia-events-expected.html?rh=1">article</a> about the anniversary.</p>
-<p>&nbsp;</p>
+<img src="/images/boc_landing.png" />
 <p>The website is built on WordPress and hosted at <a href="https://getflywheel.com">Flywheel</a>. I seperated most of the site’s logic out into 5 plugins and kept anything related to the design in the theme we built. Those plugins are for syndication, event management, a media/social gallery, social media, a twig extensions.</p>
-<p>&nbsp;</p>
 <p>The syndication plugin pulls posts in from the public <a href="http://www.onecolumbiasc.com">One Columbia</a> RSS feed. I tried to find another plugin or library that could sync two blogs, but nothing worked. It’s a difficult problem to abstract out.</p>
-<p>&nbsp;</p>
 <p>Event management does what you’d expect. It creates a WordPress CPT with the usual event details.</p>
-<p>&nbsp;</p>
+<img src="/images/boc_event.png" />
 <p>The media/social gallery lets an admin pick tweets, instagram images/videos, youtube videos, uploaded images, and facebook posts. The media data is then available in the WordPress CPT.</p>
-<p>&nbsp;</p>
+<img src="/images/boc_gallery.png" />
 <p>The social media plugin lets you plug in various access tokens to get all your social media account data available.</p>
-<p>&nbsp;</p>
 <p>And finally, the twig extension plugin provides some useful, you guessed it, twig extensions such as creating an excerpt out of text, making the links in tweets clickable, and giving the time since an event (2 days ago). It should be noted that we use <a href="http://upstatement.com/timber/">Timber</a> to give us Twig.</p>
-<p>&nbsp;</p>
 <p>This was the first WordPress project I’ve worked on where I put the logic of the website in plugins instead of the theme. The goal is to be able to reuse this functionality in future projects with a simple plugin activation.</p>
-<p>&nbsp;</p>
 <p>This was a fun project, and I’m glad to have worked on it. Now to check out some of these events!</p>
